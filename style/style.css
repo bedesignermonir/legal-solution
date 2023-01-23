@@ -1,3 +1,10 @@
 .bg-brown {
     background-color: #B68C5A;
 }
+
+.hero-img {
+    background-image: url(../images/Rectangle\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+}
